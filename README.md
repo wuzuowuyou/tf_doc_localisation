@@ -8,7 +8,7 @@
 4. Edit tf_doc_localisation/receipt_dataset.py line 18 
 
 ``` python
-midv_dir = MIDV_DATASET ## for example: /data/your_download_directory/midv_500
+midv_dir = MIDV_DATASET ## for example: /datoa/your_download_directory/midv_500
 ```
 
 ### how to train the network
